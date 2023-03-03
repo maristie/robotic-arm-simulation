@@ -65,7 +65,7 @@ $F = (150\cos\alpha + 100\cos\beta + 50\cos\gamma, 150\sin\alpha + 100\sin\beta 
 
 Then the derivatives are
 
-$ \nabla F_x = -150\sin\alpha -100\sin\beta-50\sin\gamma $
+$\nabla F_x = -150\sin\alpha -100\sin\beta-50\sin\gamma $
 
 $\nabla F_y = 150\cos\alpha + 100\cos\beta + 50\cos\gamma $
 
