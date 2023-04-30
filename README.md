@@ -1,5 +1,3 @@
-# Neocis Project
-
 ## Environment
 
 Tested on
